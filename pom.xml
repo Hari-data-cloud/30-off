@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>amazon</groupId>
-  <artifactId>30% off</artifactId>
+  <artifactId>30off</artifactId>
   <version>v2</version>
   <packaging>war</packaging>
 
